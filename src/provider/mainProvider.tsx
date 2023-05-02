@@ -129,7 +129,7 @@ const MainProvider = ({ children } : ReactChildren ) => {
       // Set the files as sent
       setLoading(true);
       // Sending the files to the backend for annotation  
-      const response = await axios.post('https://food-annotator-api.onrender.com:5000/api/v1/csv/read', formData, 
+      const response = await axios.post('https://food-annotator-api.onrender.com/api/v1/csv/read', formData, 
       {
         // Header that specifies the type of data we are send
         // Specifically we say that we are send may form-data objects
