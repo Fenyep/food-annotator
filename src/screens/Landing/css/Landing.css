@@ -1,0 +1,5 @@
+.landing-blur {
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    z-index: 1;
+}

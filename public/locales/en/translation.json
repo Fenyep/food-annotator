@@ -1,0 +1,24 @@
+{
+    "or": "or",
+    "bytes": "bytes",
+    "download": "Download",
+    "clear": "Clear",
+    "annotate": "Annotate",
+    "annotation": "Annotation in progress",
+    "start": "Start",
+    "header": {
+        "start": "Get Started",
+        "home": "Home",
+        "share": "Share",
+        "language": "Language"
+    },
+    "main": {
+        "title1": "Annotate your",
+        "title2": "files easily",
+        "subtitle": "Generate your CEA, CTA and CPA just with one click for free!",
+        "action": {
+            "indication1": "Drag and drop your files here",
+            "indication2": "Upload your files"
+        }
+    }
+}

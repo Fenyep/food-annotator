@@ -1,0 +1,24 @@
+{
+    "or": "ou",
+    "bytes": "octets",
+    "download": "Telecharger",
+    "clear": "Effacer",
+    "annotate": "Annoter",
+    "annotation": "Annotation en cours",
+    "start": "Commencer",
+    "header": {
+        "start": "Commencer",
+        "home": "Accueil",
+        "share": "Partager",
+        "language": "Langue"
+    },
+    "main": {
+        "title1": "Annotez vos",
+        "title2": "fichers simplement",
+        "subtitle": "Generez votre CEA, CTA et CPA juste en un click gratuitement!",
+        "action": {
+            "indication1": "Glissez et déposez vos fichiers ici",
+            "indication2": "Choisissez vos fichiers"
+        }
+    }
+}
