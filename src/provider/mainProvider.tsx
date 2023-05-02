@@ -159,6 +159,10 @@ const MainProvider = ({ children } : ReactChildren ) => {
       setDownload(true)
     } catch (error) {
       setError(true)
+      setLoading(false)
+      // Set the result as downloadable
+      setDownload(false)
+      setDownloadUrl("");
       console.log(error);
     }
   }
